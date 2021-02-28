@@ -6,7 +6,6 @@ My name is Fatima-Ezzahra from Morocco. I'm passionate about Computer Vision and
 * 👩🏻‍💻 I currently work as a Backend Developper.
 * 🌱 I love learning, and have been taking online courses for the past 2-3 years.
 * I'm currently enrolled in the Azure Machine Learning Engineer Nanodegree at Udacity.
-* My first name is Fatima-Ezzahra, but people can call me Fatima 🤷🏻‍♀️
 * 💬  If you have any questions, I'm always happy to help.
 
 ### I work with:
