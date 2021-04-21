@@ -12,11 +12,9 @@ My name is Fatima-Ezzahra from Morocco. I'm passionate about Computer Vision and
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
-
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
