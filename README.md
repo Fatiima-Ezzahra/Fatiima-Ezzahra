@@ -28,7 +28,11 @@ My name is Fatima-Ezzahra from Morocco. I'm passionate about Computer Vision and
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Fatiima-Ezzahra)
 ![](https://komarev.com/ghpvc/?username=Fatiima-Ezzahra&color=green)
 
+
 <!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatiima-Ezzahra&repo=Optimizing-an-ML-Pipeline-in-Azure)](https://github.com/Fatiima-Ezzahra/Optimizing-an-ML-Pipeline-in-Azure)
+
+
 **Fatiima-Ezzahra/Fatiima-Ezzahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
