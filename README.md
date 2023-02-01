@@ -3,9 +3,8 @@
 My name is Fatima-Ezzahra from Morocco. I'm passionate about Computer Vision and everything AI.
 
 ### Some facts about me:
-* 👩🏻‍💻 I currently work as a Backend Developper.
+* 👩🏻‍💻 I currently work as an ML Engineer.
 * 🌱 I love learning, and have been taking online courses for the past 2-3 years.
-* I'm currently enrolled in the Azure Machine Learning Engineer Nanodegree at Udacity.
 * 💬  If you have any questions, I'm always happy to help.
 
 ### I work with:
